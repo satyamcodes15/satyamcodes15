@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Satyam Kachhi</h1>
+<h1 align="center">Hi 👋, I'm Satyam Kachhi</h1>
 <h3 align="center">Full-Stack Developer (MERN) | AI-Enabled Applications</h3>
-
-<hr/>
 
 <p align="center">
 JavaScript | React | Node.js | MongoDB
