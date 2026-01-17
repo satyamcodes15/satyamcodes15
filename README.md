@@ -33,8 +33,3 @@ I enjoy working on practical projects and continuously improving my skills.
 - 📧 **Email:** satyamkachhi65@gmail.com
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=satyamcodes15&show_icons=true&hide_title=true" />
-</p>
