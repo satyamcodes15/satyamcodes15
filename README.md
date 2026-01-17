@@ -1,33 +1,40 @@
-<h1 align="center">Hi 👋, I'm Satyam</h1>
+<h1 align="center">Hi 👋, I'm Satyam Kachhi</h1>
 <h3 align="center">Full-Stack Developer (MERN) | AI-Enabled Applications</h3>
 
 <p align="center">
 JavaScript | React | Node.js | MongoDB
 </p>
 
-<p align="center">
-Building scalable web applications with clean UI,
-robust backend logic, and intelligent features.
+---
+
+## 👨‍💻 About Me
+I’m a Full-Stack Developer focused on building real-world web applications  
+with clean UI, scalable backend logic, and intelligent features.  
+I enjoy working on practical projects and continuously improving my skills.
+
+---
+
+## 🛠 Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,git,github" />
 </p>
 
 ---
 
-### 🛠 Tech Stack
-- **Frontend:** React, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express
-- **Database:** MongoDB
-- **Tools:** Git, GitHub, Postman
-
----
-
-### 🚀 Projects
+## 🚀 Projects
 - **AgroVision** – Smart agriculture platform with dashboards, crop listings, and real-time features  
   🔗 Live: https://agrovision-frontend.netlify.app/
 
 ---
 
-### 🌐 Connect with me
-- Portfolio: https://satyamkachhiportfolio.netlify.app/
-- Email: satyamkachhi65@gmail.com
--Linkedin: https://www.linkedin.com/in/satyamkachhi/
+## 🌐 Connect With Me
+- 🌍 **Portfolio:** https://satyamkachhiportfolio.netlify.app/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/satyamkachhi/
+- 📧 **Email:** satyamkachhi65@gmail.com
 
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=satyamcodes15&show_icons=true&hide_title=true" />
+</p>
